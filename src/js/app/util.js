@@ -1,0 +1,1 @@
+require.config({paths:{baseUrl:"js/lib"},shim:{back:{exports:"back"},twoajax:{exports:"twoajax"}}}),define(["back","twoajax"],function(a,e){a(),e()});

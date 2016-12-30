@@ -1,0 +1,1 @@
+function column(){for(var e=document.querySelectorAll(".yy"),n=document.querySelectorAll(".sec"),o=0;o<4;o++)!function(o){e[o].onmouseenter=function(){for(var e=0;e<4;e++)n[e].style.display="none";n[o].style.display="block"},n[o].onmouseleave=function(){n[o].style.display="none"}}(o)}

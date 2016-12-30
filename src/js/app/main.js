@@ -1,0 +1,1 @@
+require.config({paths:{baseUrl:"js/lib"},shim:{lunbo:{exports:"lb"},back:{exports:"back"},column:{exports:"column"},oneajax:{exports:"oneajax"}}}),define(["lunbo","back","column","oneajax"],function(o,e,n,a){o(),e(),n(),a()});

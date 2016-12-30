@@ -1,0 +1,100 @@
+footer{
+	width:100%;
+	height:310px;
+	border-top:1px solid #e5e5e5;
+	background:#fafafa;
+	/*border:1px solid red;*/
+	overflow: hidden;
+/*	margin-top:100px;*/
+}
+footer .zf{
+	overflow: hidden;	
+}
+footer .zf{
+	width:74%;
+	/*border:1px solid red;*/
+	margin:0 auto;
+	height:165px;
+	border-bottom:1px solid #e5e5e5;
+}
+footer .zf dl:nth-of-type(5){
+	margin-right:1px;
+/*	border:1px solid red;*/
+}
+footer .zf dl:nth-of-type(1){
+	margin-left:40px;
+	/*border:1px solid blue;*/
+}
+footer .zf dl{
+	height:100%;
+	/*border:1px solid red;*/
+	width:124px;
+	margin-right:73px;
+	margin-top:30px;
+	float:left;
+}
+footer .zf dt{
+	height:100%;
+	float:left;
+	margin-right:5px;
+}
+footer .zf dd{
+	font-size:10px;
+	float:left;
+	color:#888888;
+}
+footer .zf dd a{
+	color:#888888;
+}
+footer .zf dd a:hover{
+	text-decoration: underline;
+}
+
+footer .zf dd:nth-of-type(1){
+	font-size:16px;
+	font-weight: bold;
+	height:40px;
+	line-height:40px;
+}
+footer .zf dd{
+	line-height:30px;
+	height:30px;
+}
+footer .dh{
+	width:74%;
+	height: 133px;
+	/*border:1px solid red;*/
+	margin: 0 auto;
+}
+footer .dh p{
+	width:100%;
+	/*border:1px solid red;*/
+	text-align: center;
+	line-height:35px;
+	font-size:10px;
+	color:#888888;
+}
+footer .dh p a{
+	margin-left:36px;
+	color:#888888;
+}
+footer .dh p:nth-of-type(1){
+	margin-top:16px;
+}
+#back{
+	width:25px;
+	height:80px;
+	border:1px solid #e4e4e4;
+	position:fixed;
+	right:20px;
+	bottom:10px;
+	background:#fff;
+	text-align: center;
+	font-size:13px;
+	color:#999999;
+	cursor: pointer;
+	display: none;
+}
+#back img{
+	margin-top:5px;
+}

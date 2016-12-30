@@ -1,0 +1,33 @@
+{
+  "name": "myTCB",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-livereload": "^3.8.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-uglify": "^2.0.0",
+    "gulp-webserver": "^0.9.1",
+    "imagemin-pngquant": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wpy111/ctb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wpy111/ctb/issues"
+  },
+  "homepage": "https://github.com/wpy111/ctb#readme"
+}
